@@ -37,7 +37,7 @@ langchain-core==0.1.38
 langchain-text-splitters==0.0.1
 langsmith==0.1.39
 Lazify==0.4.0
-literalai==0.0.301
+literalai
 marshmallow==3.21.1
 multidict==6.0.5
 mypy-extensions==1.0.0
